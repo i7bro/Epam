@@ -7,4 +7,3 @@ finaly content
 one more line
 
 newbranch stashed
-one more content
