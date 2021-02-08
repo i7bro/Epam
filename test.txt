@@ -5,3 +5,5 @@ one more content
 finaly content
 
 one more line
+
+newbranch stashed
